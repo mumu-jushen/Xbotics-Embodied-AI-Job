@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.6]**
+[芬兰ELLIS研究所/阿尔托大学杨健程医疗AI课题组 - 空间智能（如 3D/几何深度学习、数字孪生、混合现实）、生成式 AI、多模态学习以及智能体（Agentic AI） - 博士生/博士后/实习生](https://mp.weixin.qq.com/s/tmoWD20POH3S09t66EYWSQ)
+
+**[2025.11.5]**
+[朗毅机器人有限公司 - SLAM算法工程师/导航算法工程师等 - 实习/全职](https://mp.weixin.qq.com/s/rgZUK4Y1Nz7bbV3zqSedRw)
+
+**[2025.11.3]**
+[阿里云 - 大模型强化学习(纯本文/多模态大模型） - 研究实习生](https://mp.weixin.qq.com/s/qFHLUAZNNjLVfAqQM51vFA?scene=1)
+
 **[2025.11.3]**
 [赛力斯凤凰技术 - 具身智能大数据专家/具身智能运动控制算法专家/具身智能大模型算法专家等 - 社招](https://mp.weixin.qq.com/s/7jOVc3nm9uHEu4lbX8pj1A)
 
