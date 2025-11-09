@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.9]**
+[合肥工业大学 - 具身智能医疗科研助理1人](https://mp.weixin.qq.com/s/LTsnQBx_FpT7e4KBGEhRvQ?scene=1)
+
+**[2025.11.9]**
+[西安交大 - 视觉驱动的具身智能 - 2026年博士招生](https://mp.weixin.qq.com/s/ktzJ-cXry_hvzmHqLyixeQ?scene=1&click_id=17)
+
 **[2025.11.7]**
 [北京人形机器人创新中心 - 具身智能多模态数据研究员 - 实习](./2025/具身智能多模态数据研究员)
 
