@@ -116,6 +116,27 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.14]**
+[埃夫特机器人 - 算法类/精密机械类/硬件类等 - 26届校招](https://mp.weixin.qq.com/s/64jGy_OseKcBSDIa18qpmQ?scene=1)
+
+**[2025.11.14]**
+[北京术锐机器人股份有限公司 - 研发岗/生产质量岗等 - 26届校招](https://mp.weixin.qq.com/s/kpkt5FVU7ZEOm82Ki62OLA?scene=1&click_id=29)
+
+**[2025.11.14]**
+[北京大学先进制造与机器人学院庞智博教授课题组 - 物理智能/具身智能/物理信息神经网络/机器人学 - 博士后研究人员](https://mp.weixin.qq.com/s/nShm0ieNnhUboLIAd2kRYw?scene=1&click_id=28)
+
+**[2025.11.14]**
+[普渡机器人 - 算法类/软件类/硬件类等 - 26届校招](https://mp.weixin.qq.com/s/8YFtP-ZR-aUOnnwWr-gUMg?scene=1&click_id=27)
+
+**[2025.11.14]**
+[越疆机器人 - 机器人算法研究员/机器人算法工程师等 - 26届校招](https://mp.weixin.qq.com/s/5bmvDEJOcQxL03BtTxb_0g?scene=1&click_id=26)
+
+**[2025.11.14]**
+[深圳市大寰机器人科技有限公司 - 机械工程师/硬件工程师等 - 26届校招](https://mp.weixin.qq.com/s/iNolcO39NnW0WQX_RbaArA?scene=1&click_id=25)
+
+**[2025.11.13]**
+[小鹏汽车机器人 - 关节结构设计高级/资深工程师、灵巧手关节结构高级/资深工程师等 - 社招]
+
 **[2025.11.13]**
 [浙江大学高飞团队 - 群体智能与创新应用方向/移动操作机器人整身规划控制方向/多模态环境感知方向/端到端动态避障策略优化方向/新构型空中操作机器人设计与控制方向 - 科研实习生](https://mp.weixin.qq.com/s/k6K6wjE7qSPjUpSeohTbYg)
 
