@@ -135,7 +135,7 @@ Xbotics具身智能社区内推清单
 [深圳市大寰机器人科技有限公司 - 机械工程师/硬件工程师等 - 26届校招](https://mp.weixin.qq.com/s/iNolcO39NnW0WQX_RbaArA?scene=1&click_id=25)
 
 **[2025.11.13]**
-[小鹏汽车机器人 - 关节结构设计高级/资深工程师、灵巧手关节结构高级/资深工程师等 - 社招]
+[小鹏汽车机器人 - 关节结构设计高级/资深工程师、灵巧手关节结构高级/资深工程师等 - 社招](https://mp.weixin.qq.com/s/fOFcbJp3wkWjvk9yqQiZoQ?scene=1&click_id=32)
 
 **[2025.11.13]**
 [浙江大学高飞团队 - 群体智能与创新应用方向/移动操作机器人整身规划控制方向/多模态环境感知方向/端到端动态避障策略优化方向/新构型空中操作机器人设计与控制方向 - 科研实习生](https://mp.weixin.qq.com/s/k6K6wjE7qSPjUpSeohTbYg)
