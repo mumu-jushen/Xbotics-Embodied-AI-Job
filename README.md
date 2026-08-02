@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.8.2]**
+[小鹏集团机器人团队 - 具身运动控制算法专家(Locomotion)/具身智能灵巧操作算法工程师/专家/具身算法部署工程师/具身大模型 Infra Engineer/Embodied AI System Engineer/具身数据Infra Engineer/具身智能模型推理架构师/VSLAM算法工程师-建图定位方向/Omni模型算法工程师/研究员/多模态人机交互算法工程师/研究员/具身智能数据算法工程师等 - 社招/校招](https://mp.weixin.qq.com/s/CP_Zkb-V5OJkotDzCIcy0Q)
+
+**[2026.8.2]**
 [数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员/AI全栈开发工程师/ROS开发工程师 - 社招](https://mp.weixin.qq.com/s/J5wpNZBXqRlfWbTXE41SZQ)
 
 **[2026.8.2]**
@@ -139,6 +142,30 @@ Xbotics具身智能社区内推清单
 
 **[2026.7.31]**
 [虹软科技 - 智能驾驶感知算法工程师/智能驾驶深度学习算法工程师/具身智能（机器人）大脑算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/THDTY2wcGNECwuSAoYjoPg)
+
+**[2026.7.31]**
+[香港科技大学（广州）钟秉灼老师 - 具身智能安全/CPS控制和形式化方法方向 - 博士后/全奖博士生/研究助理](https://mp.weixin.qq.com/s/3LVri5HomdBA2-qVAZIBZA)
+
+**[2026.7.30]**
+[NVIDIA - 具身智能/仿真/部署等方向 - 社招/全职/实习](https://mp.weixin.qq.com/s/MlJPcf63BvFB1M3oPk-cnQ)
+
+**[2026.7.29]**
+[光轮智能 - 具身资深结构设计师 - 社招](https://mp.weixin.qq.com/s/ize-DKceJzbr2fffrIu3vw)
+
+**[2026.7.28]**
+[中豫具身智能实验室 - 机器人/具身智能 - 博士研究生](https://mp.weixin.qq.com/s/212AE8IjogJ_mUPl8F4MUg)
+
+**[2026.7.27]**
+[浙江清华长三角研究院信息所 - 具身智能专家/大模型预训练专家/世界模型/ AI4S专家/产品总监 - 博士后](https://mp.weixin.qq.com/s/oDl2gOQcx0OQtPtAWzNtAA)
+
+**[2026.7.24]**
+[正行创新，姚颂 & 于超团队 - 具身智能算法专家/工程师(北京/新加坡)、强化学习专家/工程师(北京/新加坡)、导航规划算法工程师(北京/新加坡)、SLAM算法工程师(北京/新加坡)、基座模型研究员(北京/新加坡)、多模态感知算法工程师(北京/新加坡)、强化学习运动控制算法工程师(上海/新加坡)、机械臂运动控制专家/工程师(北京/新加坡)、遥操作算法专家(北京/新加坡)等 - 全职/实习](https://mp.weixin.qq.com/s/KUL2nVvOfbV-f3gAXJfaFg)
+
+**[2026.7.24]**
+[极智嘉具身智能团队 - 具身数据算法工程师/具身仿真算法工程师/机器人运动规划算法工程师/机器人运动控制与仿真工程师/世界模型算法工程师/VLA算法工程师等 - 社招](https://mp.weixin.qq.com/s/Qmz8gOQfYM3zydVgHWE_sw)
+
+**[2026.7.23]**
+[苏度科技 - 具身大脑岗位(上海)/具身本体岗位(上海)等 - 社招](https://mp.weixin.qq.com/s/a3Kyii6hvqW_OVO1-rIaTQ)
 
 **[2026.7.20]**
 [中煤科工机器人科技有限公司 - 具身智能算法工程师 - 社招](https://mp.weixin.qq.com/s/nVEaT5mQJoc7GIRtu6Zn-g)
