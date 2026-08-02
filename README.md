@@ -116,6 +116,30 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.2]**
+[数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员/AI全栈开发工程师/ROS开发工程师 - 社招](https://mp.weixin.qq.com/s/J5wpNZBXqRlfWbTXE41SZQ)
+
+**[2026.8.2]**
+[珞石机器人 - 控制算法工程师、视觉算法工程师，软件工程师、机器人线束工程师、测试工程师、硬件工程师、嵌入式工程师、具身控制算法工程师、具身智能销售工程师、技术服务工程师等 - 校招](https://mp.weixin.qq.com/s/xPIOfJrwZCQbFRA08hCsZg)
+
+**[2026.8.2]**
+[银河通用 - 具身多模态大模型/机器人规划与控制/机器人硬件与量产/具身智能操作算法/人形强化学习控制/具身软件系统开发 - 27届校招](https://mp.weixin.qq.com/s/0n2CkLOF-f05ivpHSli5jg)
+
+**[2026.8.1]**
+[宇树科技 - AI算法工程师/语音大模型算法工程师/具身智能算法工程师/视觉大模型算法工程师/Alinfra工程师/具身数据评估工程师/运动控制算法工程师/数据管线工程师/SLAM算法工程师/嵌入式软件工程师 - 27届校招](https://mp.weixin.qq.com/s/d0U4SKIdOOASHcnWb9UYEg)
+
+**[2026.8.1]**
+[英伟达 - 机器人和智能驾驶类：具身智能、仿真、部署与人形机器人、智能驾驶系统 - 27届校招](https://mp.weixin.qq.com/s/C8UpYZBdaHoAnPP43CDw7w)
+
+**[2026.8.1]**
+[华威科 - 灵巧手高级结构工程师 - 社招](https://mp.weixin.qq.com/s/MmwxRd5nACNMh96aOKeGOQ)
+
+**[2026.7.31]**
+[热热数据 - 具身采集 - 社招](https://mp.weixin.qq.com/s/dN1jXl6z-L8v_K--AX2gLQ)
+
+**[2026.7.31]**
+[虹软科技 - 智能驾驶感知算法工程师/智能驾驶深度学习算法工程师/具身智能（机器人）大脑算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/THDTY2wcGNECwuSAoYjoPg)
+
 **[2026.7.20]**
 [中煤科工机器人科技有限公司 - 具身智能算法工程师 - 社招](https://mp.weixin.qq.com/s/nVEaT5mQJoc7GIRtu6Zn-g)
 
