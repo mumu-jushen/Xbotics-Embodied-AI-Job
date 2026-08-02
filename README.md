@@ -153,6 +153,9 @@ Xbotics具身智能社区内推清单
 [光轮智能 - 具身资深结构设计师 - 社招](https://mp.weixin.qq.com/s/ize-DKceJzbr2fffrIu3vw)
 
 **[2026.7.28]**
+[优必选 - 项目经理/数据合规高级经理（出海方向）/高级产品经理 - 社招](https://mp.weixin.qq.com/s/0T4578KsButWwDNeIUe3Ow)
+
+**[2026.7.28]**
 [中豫具身智能实验室 - 机器人/具身智能 - 博士研究生](https://mp.weixin.qq.com/s/212AE8IjogJ_mUPl8F4MUg)
 
 **[2026.7.27]**
