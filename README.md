@@ -170,6 +170,10 @@ Xbotics具身智能社区内推清单
 **[2026.7.23]**
 [苏度科技 - 具身大脑岗位(上海)/具身本体岗位(上海)等 - 社招](https://mp.weixin.qq.com/s/a3Kyii6hvqW_OVO1-rIaTQ)
 
+**[2026.7.23]**
+[国科大AI学院&自动化所 - 灵巧操作技能学习/双臂移动操作/神经拟态视触觉感知等 - 实习](
+https://zhuanlan.zhihu.com/p/2061817107336189303)
+
 **[2026.7.20]**
 [中煤科工机器人科技有限公司 - 具身智能算法工程师 - 社招](https://mp.weixin.qq.com/s/nVEaT5mQJoc7GIRtu6Zn-g)
 
