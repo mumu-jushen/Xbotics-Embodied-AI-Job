@@ -116,6 +116,36 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.11]**
+[千寻智能 - Al Infra 工程师/模型评测工程师/导航算法工程师/机器人软件工程师/后训练算法工程师/VLA操作算法工程师/机械开发工程师/数据算法工程师/Agent算法工程师/预训练算法工程师/具身运控算法工程师/电子电气测试工程师等 - 27应届校招](https://mp.weixin.qq.com/s/1D9yb--YEbK99eGLln1ZTw)
+
+**[2026.8.10]**
+[普渡机器人 - 算法/研发/产品/软件类 - 27应届校招/实习](https://mp.weixin.qq.com/s/rlwUK6sA5nIDh-IhI1K9ug)
+
+**[2026.8.10]**
+[地平线 - 算法/芯片/软件/硬件类方向 - 27应届校招](https://mp.weixin.qq.com/s/9Ku1vBD36bcDVENN-g8rOg)
+
+**[2026.8.9]**
+[小鹏集团机器人团队 - 具身运动控制算法专家(Locomotion)/具身算法部署工程师/具身智能灵巧操作算法工程师/专家/具身大模型Infra Engineer/Embodied AI System Engineer/具身数据Infra Engineer/具身智能模型推理架构师/VSLAM算法工程师-建图定位方向等 - 校招/实习/全职](https://mp.weixin.qq.com/s/zkIax2oVElGMwdSyNHyyfg)
+
+**[2026.8.9]**
+[中国信通院人工智能研究所 - 科研攻关方向：大模型、具身智能、智能体、安全可信、AI for Science、人工智能基础研究、应用研究、软硬件、数据要素、前沿探索等 - 27应届校招](https://mp.weixin.qq.com/s/Y_BT83NpBRR2k0zpRjmOSg)
+
+**[2026.8.8]**
+[Momenta - 世界模型算法工程师/端到端大模型算法/端到端决策规划等 - 全职/实习](https://mp.weixin.qq.com/s/8iPWQB_f2MbUNjlVcFJQOw)
+
+**[2026.8.8]**
+[银河通用机器人 - 具身多模态大模型/机器人规划与控制/机器人硬件与量产/具身智能操作算法/人形强化学习控制/具身软件系统开发](https://mp.weixin.qq.com/s/T1YOCXHpOCygOf0Q9ppm6w)
+
+**[2026.8.7]**
+[大晓机器人 - 具身智能算法研究员 - 实习生](https://mp.weixin.qq.com/s/LwjH7IjzOoPd89bI9ljzKQ)
+
+**[2026.8.6]**
+[阿里巴巴 - 算法/研发/芯片/产品类方向 - 27应届校招](https://mp.weixin.qq.com/s/zf61zNfpExEK7ItIc6H8tA)
+
+**[2026.8.6]**
+[深圳市龙岗区人工智能（机器人）署 - 产业研究岗2名、产业生态发展岗2名 - 社招](https://mp.weixin.qq.com/s/HH2mc9hdPNrCjgy4mBnbZQ)
+
 **[2026.8.2]**
 [小鹏集团机器人团队 - 具身运动控制算法专家(Locomotion)/具身智能灵巧操作算法工程师/专家/具身算法部署工程师/具身大模型 Infra Engineer/Embodied AI System Engineer/具身数据Infra Engineer/具身智能模型推理架构师/VSLAM算法工程师-建图定位方向/Omni模型算法工程师/研究员/多模态人机交互算法工程师/研究员/具身智能数据算法工程师等 - 社招/校招](https://mp.weixin.qq.com/s/CP_Zkb-V5OJkotDzCIcy0Q)
 
