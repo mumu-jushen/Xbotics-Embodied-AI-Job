@@ -116,6 +116,21 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.17]**
+[九识智能 - 标定算法工程师/世界模型算法工程师/资深AI Infra工程师/仿真引擎专家/VLA算法工程师/自动驾驶三维重建专家/模型训练性能优化工程师/自动驾驶系统监控与优化工程师/端到端算法工程师（感知方向）/端到端算法工程师（PNC方向）/多传感器标定算法实习生等- 校招/社招/实习](https://mp.weixin.qq.com/s/aPIIx7AtiDxOVOi9bvpt0g)
+
+**[2026.8.14]**
+[博世智能驾驶与控制系统事业部（XC） - 数据算法工程师（3DGS 重建与仿真方向） - 上海/苏州 - 社招](https://mp.weixin.qq.com/s/RWS08im3wlSRC8oqHmRXyQ)
+
+**[2026.8.13]**
+[北京大学具身智能团队 - 世界模型+物理智能方向 - 实习生](https://mp.weixin.qq.com/s/3be2wx6FM_uburROXQKWqQ)
+
+**[2026.8.13]**
+[中联重科股份有限公司 - VLA大模型算法专家/强化学习算法专家/世界模型算法专家/机器人移动感知算法专家等 - 社招](https://mp.weixin.qq.com/s/pzMlc8sZWkMTYwM0AcGWng)
+
+**[2026.8.12]**
+[Sharpa - 具身智能算法岗 - 社招](https://mp.weixin.qq.com/s/BZEnwhirfSDtbVS9Guw1pQ)
+
 **[2026.8.11]**
 [千寻智能 - Al Infra 工程师/模型评测工程师/导航算法工程师/机器人软件工程师/后训练算法工程师/VLA操作算法工程师/机械开发工程师/数据算法工程师/Agent算法工程师/预训练算法工程师/具身运控算法工程师/电子电气测试工程师等 - 27应届校招](https://mp.weixin.qq.com/s/1D9yb--YEbK99eGLln1ZTw)
 
