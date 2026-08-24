@@ -117,12 +117,24 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.8.24]**
+[箸境具身机器人 - 产品经理/VLA算法工程师/嵌入式软件工程师/嵌入式硬件工程师/强化学习算法工程师 - 27届校招](https://mp.weixin.qq.com/s/OQiclas-Yi0spF4LU-6QXQ)
+
+**[2026.8.24]**
 [华南理工大学 HAI 实验室的项目团队 - 机械结构工程师 - 广州 - 社招/全职](./2025/机械结构工程师)
+
+**[2026.8.24]**
+[普渡机器人 - 机器人仿真开发工程师/深度学习算法工程师/强化学习算法工程师/端到端模型算法工程师/世界模型算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/cPRhnGxyqMXD1ZLbUftb5Q)
+
+**[2026.8.23]**
+[宇树科技股份有限公司 - 机器人数据运营工程师/具身智能软件工程师/数据管线工程师/具身数据评估工程师/解决方案工程师/海外销售专员/经理工业设计师/机器人测试工程师等 - 27届校招](https://mp.weixin.qq.com/s/G-hmtpY9-Ga2hgv7LE9mvQ)
 
 **[2026.8.23]**
 [极智嘉 - VLA算法工程师/世界模型算法工程师/强化学习算法工程师等 - 2027届校招](https://mp.weixin.qq.com/s/EJDADEE5P2c5H8fRWKQNzg)
 
 **[2026.8.23]**
+[中联重科 - 机器人和人工智能方向 - 27届校招](https://mp.weixin.qq.com/s/2qsvr8oRA2E-z5TTB52EKw)
+
+**[2026.8.22]**
 [地平线旗下地瓜机器人 - 人形Agent算法 - 实习生](https://mp.weixin.qq.com/s/XQOCewX-qlx5JtqYhfkA_g)
 
 **[2026.8.17]**
