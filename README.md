@@ -140,6 +140,9 @@ Xbotics具身智能社区内推清单
 **[2026.8.22]**
 [地平线旗下地瓜机器人 - 人形Agent算法 - 实习生](https://mp.weixin.qq.com/s/XQOCewX-qlx5JtqYhfkA_g)
 
+**[2026.8.19]**
+[深蓝学院 - 器人开发/具身算法/运营/产品经理 - 全职/实习](https://mp.weixin.qq.com/s/LCepbqBGtnaxiiQZ5aTaXg)
+
 **[2026.8.17]**
 [九识智能 - 标定算法工程师/世界模型算法工程师/资深AI Infra工程师/仿真引擎专家/VLA算法工程师/自动驾驶三维重建专家/模型训练性能优化工程师/自动驾驶系统监控与优化工程师/端到端算法工程师（感知方向）/端到端算法工程师（PNC方向）/多传感器标定算法实习生等- 校招/社招/实习](https://mp.weixin.qq.com/s/aPIIx7AtiDxOVOi9bvpt0g)
 
