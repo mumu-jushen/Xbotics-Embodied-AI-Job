@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.25]**
+[上海人工智能实验室 - 物理一致性视频生成模型研究 - 实习生](https://mp.weixin.qq.com/s/v5I_GNjnWaPX8EmJ_2gwEg)
+
 **[2026.8.24]**
 [箸境具身机器人 - 产品经理/VLA算法工程师/嵌入式软件工程师/嵌入式硬件工程师/强化学习算法工程师 - 27届校招](https://mp.weixin.qq.com/s/OQiclas-Yi0spF4LU-6QXQ)
 
