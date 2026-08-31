@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.30]**
+[跨维智能 - 具身智能算法工程师/AI视觉算法工程师/应用开发工程师/强化学习算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/hZpiHtzDKCc5l5q7E5apaQ)
+
+**[2026.8.29]**
+[星海图 - 具身智能算法工程师/具身智能开发工程师|北京·海淀  机械结构工程师|深圳 - 27届校招](https://mp.weixin.qq.com/s/ncD7osQfbVKWJ1nTlsjVAg)
+
+**[2026.8.27]**
+[北京智源人工智能研究院 - Agent安全×具身智能安全、VLA/世界模型方向 - 实习](https://mp.weixin.qq.com/s/B93O09wm07u0PxLb9Xo3aA)
+
 **[2026.8.25]**
 [上海人工智能实验室 - 物理一致性视频生成模型研究 - 实习生](https://mp.weixin.qq.com/s/v5I_GNjnWaPX8EmJ_2gwEg)
 
