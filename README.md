@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.8.31]**
+[深圳市普渡科技股份有限公司 - 机器人仿真开发工程师/深度学习算法工程师/强化学习算法工程师/端到端模型算法工程师/世界模型算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/4oXJ_czn4wDVvAwdNn1kIA)
+
+**[2026.8.31]**
+[中科文雅公司 - 具身智能数据采集 - 社招](https://mp.weixin.qq.com/s/8mOSapB4zbh5YylroBj6ng)
+
 **[2026.8.30]**
 [跨维智能 - 具身智能算法工程师/AI视觉算法工程师/应用开发工程师/强化学习算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/hZpiHtzDKCc5l5q7E5apaQ)
 
