@@ -116,6 +116,21 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.1]**
+[上海 AI Lab - 具身智能研究(Agentic 仿真与 Real2Sim2Real/机器人视触觉与物理交互/VLA/WAM 训练与部署方向）- 实习生](https://www.xiaohongshu.com/discovery/item/6a964a2b0000000028034a31?source=webshare&xhsshare=pc_web&xsec_token=ABcq1gpo-YCm2HB4ygHJHQC8c2PNy02lHb1CiQPt1h3Ys=&xsec_source=pc_share)
+
+**[2026.9.1]**
+[元节智能 - 具身智能算法/机器人导航与抓取/数据开发 - 实习生/校招](https://www.xiaohongshu.com/discovery/item/6a9571a900000000030298db?source=webshare&xhsshare=pc_web&xsec_token=ABuS3heZEzygHShTGh2oWOU6cUphe2vsik5JSWhG-5YsI=&xsec_source=pc_share)
+
+**[2026.9.1]**
+[小鹏机器人 - 具身智能 - 社招/校招/实习](https://www.xiaohongshu.com/discovery/item/6a912311000000000303c439?source=webshare&xhsshare=pc_web&xsec_token=ABoeAVaJNjMrfsCjpJIghrcx0OglqfTZvVHuWSiVsmH70=&xsec_source=pc_share)
+
+**[2026.9.1]**
+[小米机器人 - 具身操作算法研究 - 实习生](https://www.xiaohongshu.com/discovery/item/6a957146000000000402ac6d?source=webshare&xhsshare=pc_web&xsec_token=ABuS3heZEzygHShTGh2oWOU1hx4Ui3t0mupJIH08MD4Pc=&xsec_source=pc_share)
+
+**[2026.8.31]**
+[深诣机器人 - 大模型/infra/数据/强化学习/导航/规控/仿真/机械/硬件等方向，Base北京 - 实习/校招]( https://www.xiaohongshu.com/discovery/item/6a94fa9f000000002303e2f0?source=webshare&xhsshare=pc_web&xsec_token=AB0hwRXB4Wy9wB3X4_jEcMR47cSobwd6Kc86NVdoZyCXA=&xsec_source=pc_share)
+
 **[2026.8.31]**
 [深圳市普渡科技股份有限公司 - 机器人仿真开发工程师/深度学习算法工程师/强化学习算法工程师/端到端模型算法工程师/世界模型算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/4oXJ_czn4wDVvAwdNn1kIA)
 
@@ -127,6 +142,12 @@ Xbotics具身智能社区内推清单
 
 **[2026.8.29]**
 [星海图 - 具身智能算法工程师/具身智能开发工程师|北京·海淀  机械结构工程师|深圳 - 27届校招](https://mp.weixin.qq.com/s/ncD7osQfbVKWJ1nTlsjVAg)
+
+**[2026.8.28]**
+[中山大学HCP - 具身智能/多模态大模型/VLM/World Model等方向 - 博士后1名/博士研究生3名/硕士研究生剩余1-2名/科研助理实习生若干](https://www.xiaohongshu.com/discovery/item/6a8ec5ca0000000007006407?source=webshare&xhsshare=pc_web&xsec_token=ABR2Y4kdlPjGHZ5izR8DycS-D-1HrEeidDL5fmoAqt0Pg=&xsec_source=pc_share)
+
+**[2026.8.27]**
+[地平线具身智能实验室 - 世界模型方向 - 实习生](https://www.xiaohongshu.com/discovery/item/6a8fab4700000000260017a9?source=webshare&xhsshare=pc_web&xsec_token=ABmx0_COTo4leq4H5j1YOl7f5jXPnILbqtW1aGpXWYr9A=&xsec_source=pc_share)
 
 **[2026.8.27]**
 [北京智源人工智能研究院 - Agent安全×具身智能安全、VLA/世界模型方向 - 实习](https://mp.weixin.qq.com/s/B93O09wm07u0PxLb9Xo3aA)
